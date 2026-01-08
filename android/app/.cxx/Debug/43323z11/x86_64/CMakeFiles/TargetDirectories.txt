@@ -1,0 +1,2 @@
+C:/Users/acer/Documents/Work_delivery_Company/admin/android/app/.cxx/Debug/43323z11/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/acer/Documents/Work_delivery_Company/admin/android/app/.cxx/Debug/43323z11/x86_64/CMakeFiles/rebuild_cache.dir

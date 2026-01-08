@@ -1,0 +1,2 @@
+C:/Users/acer/Documents/Work_delivery_Company/admin/android/app/.cxx/RelWithDebInfo/32h31105/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/acer/Documents/Work_delivery_Company/admin/android/app/.cxx/RelWithDebInfo/32h31105/arm64-v8a/CMakeFiles/rebuild_cache.dir

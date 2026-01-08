@@ -1,0 +1,2 @@
+C:/Users/GIGABYTE/Documents/Work_delivery_Company/admin/android/app/.cxx/RelWithDebInfo/4p4k3v2e/x86/CMakeFiles/edit_cache.dir
+C:/Users/GIGABYTE/Documents/Work_delivery_Company/admin/android/app/.cxx/RelWithDebInfo/4p4k3v2e/x86/CMakeFiles/rebuild_cache.dir
